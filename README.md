@@ -2,7 +2,7 @@
 
 The idea behind MassFuser is to take advantage of the high resolution acquisition mode of modern mass spectrometers, and at the same time overcome its inherent limitation of longer instrument duty cycles. The principal use case of MassFuser is combining the data from replicate LC-MS runs, one of which is acquired in high resolution mode, giving accurate m/z values in MS1 scans, whereas the other one is processed with lower resolution mode and data independent MS/MS acquisition enabled. Thus, both LC-MS runs contain complementary information, which gets merged by MassFuser allowing for downstream analysis with any software tools accepting regular LC-MS data.
 
-The workflow is being developed by [Alexandrov Team](http://www.embl.de/research/units/scb/alexandrov/index.html) at EMBL Heidelberg ([contact information](http://www.embl.de/research/units/scb/alexandrov/contact/index.html)).
+The workflow is being developed by [Alexandrov Team](http://www.embl.de/research/units/scb/alexandrov/index.html) at EMBL Heidelberg ([contact information](http://www.embl.de/research/units/scb/alexandrov/contact/index.html)) in collaboration with Louis-Félix Nothias ([Pieter Dorrestein Lab, UCSD](http://dorresteinlab.ucsd.edu/Dorrestein_Lab/Welcome.html)).
 
 Developer: Ivan Protsyuk
 
